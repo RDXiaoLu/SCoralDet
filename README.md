@@ -1,4 +1,4 @@
-# SCoralDet-Dataset 🪸
+# SCoralDet-Dataset
 
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue)](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
