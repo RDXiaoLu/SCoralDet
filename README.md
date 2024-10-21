@@ -33,8 +33,8 @@ You can download the dataset from [Google Drive](https://drive.google.com/file/d
 ## 🐚 Dataset Preview
 Here are a few samples from the dataset:
 
-![Euphylliaancora Coral](path-to-sample-image1.jpg)
-![Favosites Coral](path-to-sample-image2.jpg)
+![Euphylliaancora Coral](Data preview/.jpg)
+![Favosites Coral](Data preview/.jpg)
 
 ---
 
