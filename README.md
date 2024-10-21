@@ -45,7 +45,16 @@ Here are a few samples from the dataset:
 🎯 Applications
 This dataset can be used for:
 
-Coral species classification
-Object detection tasks (e.g., YOLO, Faster R-CNN)
-Transfer learning on underwater datasets
+- Coral species classification
+- Object detection tasks (e.g., YOLO, Faster R-CNN)
+- Transfer learning on underwater datasets
+
+---
+
+✨ Contributions
+We welcome contributions to improve this dataset! Feel free to:
+
+- Report issues or bugs.
+- Submit pull requests for any enhancements.
+
 
