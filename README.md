@@ -38,14 +38,4 @@ Here are a few samples from the dataset:
 
 ---
 
-## 🧪 How to Use
-To get started with the **SCoralDet Dataset**, follow these steps:
-1. **Download the dataset** using the link above.
-2. Extract the files to your local machine.
-3. Load the dataset into your machine learning model using your preferred data loading library (e.g., `torchvision.datasets`, `tf.data`).
 
-```python
-# Example: Load dataset in PyTorch
-from torchvision import datasets
-
-dataset = datasets.ImageFolder(root='path_to_dataset')
