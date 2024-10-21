@@ -51,6 +51,16 @@ This dataset can be used for:
 
 ---
 
+🔍 Citation & Preprint
+For more details about our work, please refer to our preprint on SSRN:
+
+**Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui.**  
+**SCoralDet: Efficient Real-Time Underwater Soft Coral Detection with YOLO.**  
+Available at SSRN: [https://ssrn.com/abstract=4992454](https://ssrn.com/abstract=4992454)  
+or [http://dx.doi.org/10.2139/ssrn.4992454](http://dx.doi.org/10.2139/ssrn.4992454).
+
+---
+
 ✨ Contributions
 We welcome contributions to improve this dataset! Feel free to:
 
