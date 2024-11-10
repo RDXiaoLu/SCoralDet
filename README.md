@@ -1,8 +1,9 @@
-# SCoralDet-Dataset
+# SCoralDet-Dataset 
 > High-quality underwater coral detection dataset for machine learning and computer vision research.
+
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue)](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/RDXiaoLu/SCoralDet-Dataset.svg)](https://github.com/RDXiaoLu/SCoralDet-Dataset/stargazers)
+
 
 ---
 
