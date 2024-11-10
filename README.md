@@ -44,6 +44,14 @@ Here are a few samples from the dataset:
 
 ---
 
+## 🚀 Follow-Up Work: MambaCoral-DiffDet
+Building upon the **SCoralDet** dataset, we developed **MambaCoral-DiffDet** as a refined and advanced framework for soft coral detection under complex underwater conditions. This work utilizes **diffusion models** to address data imbalance and improves detection accuracy using novel attention mechanisms and architecture modifications.
+
+For more details, please refer to the [MambaCoral-DiffDet GitHub Repository](https://github.com/YourUsername/MambaCoral-DiffDet), where you can see how **SCoralDet** has been leveraged and extended in this project.
+
+---
+
+
 🎯 Applications
 This dataset can be used for:
 
