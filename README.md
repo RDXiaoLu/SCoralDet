@@ -6,6 +6,10 @@
 
 
 ---
+## 🎥 Detection Video
+
+![SCoralDet Detection Preview](https://github.com/RDXiaoLu/SCoralDet-Dataset/blob/main/Video/vidio.avi)
+---
 
 ## 📝 Overview
 The **SCoralDet Dataset** is a high-quality underwater coral dataset, containing **646** annotated images collected from the **Coral Germplasm Conservation and Breeding Center** at **Hainan Tropical Ocean University** in Sanya, China. This dataset is specifically designed for coral detection and recognition tasks, making it ideal for researchers and practitioners working on **underwater image analysis**, **marine biology**, and **computer vision applications**.
