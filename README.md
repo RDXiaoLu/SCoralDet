@@ -8,7 +8,7 @@
 ---
 ## 🎥 Detection Video
 
-![SCoralDet Detection Preview](https://github.com/RDXiaoLu/SCoralDet-Dataset/blob/main/Video/vidio.avi)
+![SCoralDet Detection Preview](https://github.com/RDXiaoLu/SCoralDet-Dataset/blob/main/Video/vidio.gif)
 ---
 
 ## 📝 Overview
