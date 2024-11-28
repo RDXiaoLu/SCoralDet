@@ -75,7 +75,7 @@ To get started with the **SCoralDet Dataset**, you can download it directly from
 Once you have the dataset, unzip the downloaded files. The dataset is organized into the following structure:
 
 ```markdown 
-/home/featurize/data
+/your_dataset_path
 ├── annotations
 └── image
     ├── Euphflfiaancora
@@ -100,6 +100,7 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 ```
 
 ---
+
 
 🔍 Citation & Preprint
 For more details about our work, please refer to our preprint on SSRN:
