@@ -66,6 +66,29 @@ This dataset can be used for:
 
 ---
 
+## 🛠️ How to Use
+1. **Download the Dataset**
+To get started with the **SCoralDet Dataset**, you can download the dataset directly via Google Drive.
+2. **Preparing the Dataset**
+Once you have the dataset, make sure to unzip the downloaded files. You will find the dataset is organized into the following structure:
+
+/home/featurize/data
+├── annotations
+└── image
+    ├── Euphflfiaancora
+    ├── Favosites
+    ├── Platygyra
+    ├── Sarcophyton
+    ├── Sinularia
+    └── WavingHand
+    
+please use the **Datasetset_process.ipynb** to process dataset get the images in PNG/JPEG format with **COCO annotations**.(You can arbitrarily divide the dataset to train your own model)
+
+if you want to use **yolo format**, please use this file **coco2yolo.py**.
+
+python coco2yolo.py --json_path your_coral_instances.json  --save_path your_yolo_label_path
+
+---
 🔍 Citation & Preprint
 For more details about our work, please refer to our preprint on SSRN:
 
