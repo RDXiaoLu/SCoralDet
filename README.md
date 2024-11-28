@@ -67,10 +67,12 @@ This dataset can be used for:
 ---
 
 ## 🛠️ How to Use
-1. **Download the Dataset**
-To get started with the **SCoralDet Dataset**, you can download the dataset directly via Google Drive.
-2. **Preparing the Dataset**
-Once you have the dataset, make sure to unzip the downloaded files. You will find the dataset is organized into the following structure:
+
+### 1. **Download the Dataset**
+To get started with the **SCoralDet Dataset**, you can download it directly from [Google Drive](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link).
+
+### 2. **Preparing the Dataset**
+Once you have the dataset, unzip the downloaded files. The dataset is organized into the following structure:
 
 /home/featurize/data
 ├── annotations
@@ -82,11 +84,14 @@ Once you have the dataset, make sure to unzip the downloaded files. You will fin
     ├── Sinularia
     └── WavingHand
     
-please use the **Datasetset_process.ipynb** to process dataset get the images in PNG/JPEG format with **COCO annotations**.(You can arbitrarily divide the dataset to train your own model)
+### 3. **Processing the Dataset**
+You can use the **Dataset_process.ipynb** file to process the dataset and get the images in **PNG/JPEG** format with **COCO annotations**. You can split the dataset for training and validation.
 
-if you want to use **yolo format**, please use this file **coco2yolo.py**.
+### 4. **Converting COCO to YOLO Format**
+If you'd like to use the dataset in **YOLO format**, use the **coco2yolo.py** script:
 
-python coco2yolo.py --json_path your_coral_instances.json  --save_path your_yolo_label_path
+```bash
+python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_label_path
 
 ---
 🔍 Citation & Preprint
