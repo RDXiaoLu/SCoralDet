@@ -84,6 +84,8 @@ Once you have the dataset, unzip the downloaded files. The dataset is organized 
     ├── Sinularia
     └── WavingHand
     
+/home/featurize/data ├── annotations # COCO format annotation files └── image # Images of coral species ├── Euphylliaancora # Images of Euphylliaancora species ├── Favosites # Images of Favosites species ├── Platygyra # Images of Platygyra species ├── Sarcophyton # Images of Sarcophyton species ├── Sinularia # Images of Sinularia species └── WavingHand # Images of WavingHand species
+
 ### 3. **Processing the Dataset**
 You can use the **Dataset_process.ipynb** file to process the dataset and get the images in **PNG/JPEG** format with **COCO annotations**. You can split the dataset for training and validation.
 
@@ -94,6 +96,7 @@ If you'd like to use the dataset in **YOLO format**, use the **coco2yolo.py** sc
 python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_label_path
 
 ---
+
 🔍 Citation & Preprint
 For more details about our work, please refer to our preprint on SSRN:
 
