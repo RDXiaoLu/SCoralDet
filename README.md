@@ -74,6 +74,7 @@ To get started with the **SCoralDet Dataset**, you can download it directly from
 ### 2. **Preparing the Dataset**
 Once you have the dataset, unzip the downloaded files. The dataset is organized into the following structure:
 
+```markdown ... ```
 /home/featurize/data
 ├── annotations
 └── image
@@ -84,7 +85,8 @@ Once you have the dataset, unzip the downloaded files. The dataset is organized 
     ├── Sinularia
     └── WavingHand
     
-/home/featurize/data ├── annotations # COCO format annotation files └── image # Images of coral species ├── Euphylliaancora # Images of Euphylliaancora species ├── Favosites # Images of Favosites species ├── Platygyra # Images of Platygyra species ├── Sarcophyton # Images of Sarcophyton species ├── Sinularia # Images of Sinularia species └── WavingHand # Images of WavingHand species
+- **`annotations/`**: Contains annotation files in **COCO format** for each image in the `image/` directory.
+- **`image/`**: Contains images for each of the six coral species, organized in separate subdirectories.
 
 ### 3. **Processing the Dataset**
 You can use the **Dataset_process.ipynb** file to process the dataset and get the images in **PNG/JPEG** format with **COCO annotations**. You can split the dataset for training and validation.
