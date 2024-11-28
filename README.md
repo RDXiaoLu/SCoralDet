@@ -57,7 +57,7 @@ For more details, please refer to the [MambaCoral-DiffDet](https://github.com/RD
 ---
 
 
-🎯 Applications
+## 🎯 Applications
 This dataset can be used for:
 
 - Coral species classification
