@@ -102,7 +102,7 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 ---
 
 
-🔍 Citation & Preprint
+## 🔍 Citation & Preprint
 For more details about our work, please refer to our preprint on SSRN:
 
 **Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui.**  
@@ -112,7 +112,7 @@ or [http://dx.doi.org/10.2139/ssrn.4992454](http://dx.doi.org/10.2139/ssrn.49924
 
 ---
 
-✨ Contributions
+## ✨ Contributions
 We welcome contributions to improve this dataset! Feel free to:
 
 - Report issues or bugs.
