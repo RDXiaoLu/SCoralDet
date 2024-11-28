@@ -74,7 +74,7 @@ To get started with the **SCoralDet Dataset**, you can download it directly from
 ### 2. **Preparing the Dataset**
 Once you have the dataset, unzip the downloaded files. The dataset is organized into the following structure:
 
-```markdown ... ```
+```markdown 
 /home/featurize/data
 ├── annotations
 └── image
@@ -84,7 +84,8 @@ Once you have the dataset, unzip the downloaded files. The dataset is organized 
     ├── Sarcophyton
     ├── Sinularia
     └── WavingHand
-    
+```
+   
 - **`annotations/`**: Contains annotation files in **COCO format** for each image in the `image/` directory.
 - **`image/`**: Contains images for each of the six coral species, organized in separate subdirectories.
 
@@ -96,6 +97,7 @@ If you'd like to use the dataset in **YOLO format**, use the **coco2yolo.py** sc
 
 ```bash
 python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_label_path
+```
 
 ---
 
