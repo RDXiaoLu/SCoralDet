@@ -107,8 +107,8 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 ---
 
 
-## 🔍 Citation & Preprint
-For more details about our work, please refer to our preprint on paper:
+## 🔍 Citation 
+For more details about our work, please refer to our paper:
 
 ```markdown 
 @ARTICLE{lu2024scoraldet,  
