@@ -12,6 +12,11 @@
 
 ---
 
+## 📅 Recent Updates  
+Our paper **SCoralDet: Efficient real-time underwater soft coral detection with YOLO** has recently been published! ![Paper](https://www.sciencedirect.com/science/article/pii/S1574954124004795)
+
+---
+
 ## 📝 Overview
 The **SCoralDet Dataset** is a high-quality underwater coral dataset, containing **646** annotated images collected from the **Coral Germplasm Conservation and Breeding Center** at **Hainan Tropical Ocean University** in Sanya, China. This dataset is specifically designed for coral detection and recognition tasks, making it ideal for researchers and practitioners working on **underwater image analysis**, **marine biology**, and **computer vision applications**.
 
@@ -103,12 +108,20 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 
 
 ## 🔍 Citation & Preprint
-For more details about our work, please refer to our preprint on SSRN:
+For more details about our work, please refer to our preprint on paper:
 
-**Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui.**  
-**SCoralDet: Efficient Real-Time Underwater Soft Coral Detection with YOLO.**  
-Available at SSRN: [https://ssrn.com/abstract=4992454](https://ssrn.com/abstract=4992454)  
-or [http://dx.doi.org/10.2139/ssrn.4992454](http://dx.doi.org/10.2139/ssrn.4992454).
+```markdown 
+@ARTICLE{lu2024,  
+ author={Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui},  
+ title={SCoralDet: Efficient real-time underwater soft coral detection with YOLO},  
+ journal={Ecological Informatics},  
+ year={2024},  
+ artnum={102937},  
+ issn={1574-9541},  
+ doi={10.1016/j.ecoinf.2024.102937},  
+ url={https://www.sciencedirect.com/science/article/pii/S1574954124004795}  
+}  
+```
 
 ---
 
