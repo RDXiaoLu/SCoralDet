@@ -13,7 +13,7 @@
 ---
 
 ## 📅 Recent Updates  
-Our paper **SCoralDet: Efficient real-time underwater soft coral detection with YOLO** has recently been published! [Paper](https://www.sciencedirect.com/science/article/pii/S1574954124004795)
+Our paper **SCoralDet: Efficient real-time underwater soft coral detection with YOLO** has recently been published! [[Paper]](https://www.sciencedirect.com/science/article/pii/S1574954124004795)
 
 ---
 
