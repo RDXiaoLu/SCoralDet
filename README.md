@@ -111,14 +111,14 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 For more details about our work, please refer to our preprint on paper:
 
 ```markdown 
-@ARTICLE{lu2024,  
- author={Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui},  
- title={SCoralDet: Efficient real-time underwater soft coral detection with YOLO},  
- journal={Ecological Informatics},  
- year={2024},  
- artnum={102937},  
- issn={1574-9541},  
- doi={10.1016/j.ecoinf.2024.102937},  
+@ARTICLE{lu2024soraldet,  
+         author={Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui},  
+         title={SCoralDet: Efficient real-time underwater soft coral detection with YOLO},  
+         journal={Ecological Informatics},  
+         year={2024},  
+         artnum={102937},  
+         issn={1574-9541},  
+         doi={10.1016/j.ecoinf.2024.102937},  
 }  
 ```
 
