@@ -3,7 +3,7 @@
 
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue)](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![SCoralDet Dataset SOTA](https://img.shields.io/badge/SCoralDet-SOTA-blue)](https://paperswithcode.com/dataset/scoraldet-dataset-1)
+[![SCoralDet Dataset SOTA](https://img.shields.io/badge/SCoralDet Dataset SOTA-blue)](https://paperswithcode.com/dataset/scoraldet-dataset-1)
 
 ---
 ## 🎥 Detection Video
