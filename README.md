@@ -1,4 +1,5 @@
 # SCoralDet: Efficient real-time underwater soft coral detection with YOLO  &  SCoralDet Dataset
+> Efficient methods for underwater coral detection.
 > High-quality underwater coral detection dataset for machine learning and computer vision research.
 
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue)](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link)
