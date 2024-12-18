@@ -13,6 +13,7 @@
 ---
 
 ## 📅 Recent Updates  
+- **[2024/12/18]**: We have uploaded the core improvement source code of SCoralDet! 😊  
 - **[2024/12/16]**: We are maintaining the **SCoralDet Dataset** on [Papers with Code](https://paperswithcode.com/dataset/scoraldet-dataset-1).  
 - **[2024/12/13]**: Our paper **SCoralDet: Efficient real-time underwater soft coral detection with YOLO** has recently been published! [[Paper]](https://www.sciencedirect.com/science/article/pii/S1574954124004795)
 - **[2024/12/01]**: We’ve added specific instructions on how to use the dataset for your research!
