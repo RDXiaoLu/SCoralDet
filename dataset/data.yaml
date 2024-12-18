@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['echinus', 'holothurian', 'scallop', 'starfish']
+
+roboflow:
+  workspace: aic-chpgg
+  project: utdac2020-for-aic
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aic-chpgg/utdac2020-for-aic/dataset/5
