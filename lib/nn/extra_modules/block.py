@@ -9,7 +9,7 @@ from ..modules.conv import Conv,  autopad
 
 
 
-__all__ = ['C2f_MPFB','GSConv','GSConv']
+__all__ = ['C2f_MPFB','GSConv','VoVGSCSP']
 
 def autopad(k, p=None, d=1):  # kernel, padding, dilation
     """Pad to 'same' shape outputs."""
