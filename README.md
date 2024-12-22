@@ -109,7 +109,7 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 
 ---
 
-## 📂 Project Structure  
+## 📂 SCoralDet Project Structure  
 
 ```markdown 
 |-- SCoralDet/  
@@ -131,9 +131,37 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
     
 ---
 
-## 🛠️ How to Use the Source Code
+## ⚙️ How to Use the Source Code
 
-
+### 1. **Environment Setup**
+Follow the [Ultralytics YOLO Framework v8.3.51](https://github.com/ultralytics/ultralytics/tree/v8.3.51) guide to set up the environment and dependencies.
+Install PyTorch:
+```markdown
+pip install torch==2.2.0 torchvision==0.17.2 torchaudio==2.2.0 --index-url https://download.pytorch.org/whl/cu121
+```
+### 2. **Integrate SCoralDet into Ultralytics YOLO Framework*
+After setting up Ultralytics YOLO, the next step is to add SCoralDet's custom code to the framework. Below are the specific modules and their purposes:
+```markdown
+1. Add the `extra_modules/` folder:  
+   └── Copy the `block.py` file into the framework's directory for module extensions.  
+       - Purpose: Implements MPFB (Multi-Path Fusion Block) and LightNeck modules.
+2. Add the `utils/tal.py` file:  
+   └── Copy this utility script into the framework.  
+       - Purpose: Provides the APT algorithm.
+3. Copy the following configuration files from lib/cfg/models/v10/ into the YOLO framework:
+    - `yolov10n_backbone.yaml`: Configures the MPFB backbone module.  
+    - `yolov10n_lightneck.yaml`: Defines the lightweight neck structure.  
+```
+### 3. **Training the Model**
+Once SCoralDet is integrated, you can begin training the model by executing the following command:
+```markdown
+python train.py
+```
+### 4. **Model Validation**
+After training, validate the model’s performance using the following command:
+```markdown
+python val.py
+```
 
 ---
 
@@ -154,10 +182,10 @@ If you find our work useful, please consider citing us or giving us a star ⭐.
 
 ---
 
-## ✨ Contributions
+## ✨ Contributions & 📬 Contact Us
 We welcome contributions to improve this dataset! Feel free to:
 
 - Report issues or bugs.
 - Submit pull requests for any enhancements.
-
+- Email us directly at [luzhaoxuan@smail.fjut.edu.cn]. 
 
