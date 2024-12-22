@@ -74,7 +74,7 @@ This dataset can be used for:
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ How to Use Dataset
 
 ### 1. **Download the Dataset**
 To get started with the **SCoralDet Dataset**, you can download it directly from [Google Drive](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link).
@@ -109,6 +109,33 @@ python coco2yolo.py --json_path your_coral_instances.json --save_path your_yolo_
 
 ---
 
+## 📂 Project Structure  
+
+```markdown 
+|-- SCoralDet/  
+    |-- README.md                  # Documentation for the project 
+    |-- lib/                       # Core library containing configurations, modules, and utilities
+        |-- cfg/
+            |-- models/
+                |-- v10/           # YOLOv10 model configurations
+                    |-- yolov10n.yaml             # Main YOLOv10n model structure                 
+                    |-- yolov10n_backbone.yaml    # Main YOLOv10n MPFB-backbone configuration     
+                    |-- yolov10n_lightneck.yaml   # YOLOv10n lightweight neck configuration
+        |-- nn/       
+            |-- extra_modules/     # Additional model modules       
+                |-- block.py       # Includes custom modules: MPFB & LightNeck  
+        |-- utils/
+            |-- tal.py             # Implements APT  
+         
+```
+    
+---
+
+## 🛠️ How to Use the Source Code
+
+
+
+---
 
 ## 🔍 Citation  
 If you find our work useful, please consider citing us or giving us a star ⭐. 
