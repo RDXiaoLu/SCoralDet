@@ -139,7 +139,7 @@ Install PyTorch:
 ```markdown
 pip install torch==2.2.0 torchvision==0.17.2 torchaudio==2.2.0 --index-url https://download.pytorch.org/whl/cu121
 ```
-### 2. **Integrate SCoralDet into Ultralytics YOLO Framework*
+### 2. **Integrate SCoralDet into Ultralytics YOLO Framework**
 After setting up Ultralytics YOLO, the next step is to add SCoralDet's custom code to the framework. Below are the specific modules and their purposes:
 ```markdown
 1. Add the `extra_modules/` folder:  
