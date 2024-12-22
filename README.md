@@ -184,7 +184,7 @@ If you find our work useful, please consider citing us or giving us a star ⭐.
 ---
 
 ## ✨ Contributions & 📬 Contact Us
-We welcome contributions to improve this dataset! Feel free to:
+We welcome contributions to improve this dataset and code! Feel free to:
 
 - Report issues or bugs.
 - Submit pull requests for any enhancements.
