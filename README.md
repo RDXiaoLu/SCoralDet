@@ -5,8 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![SCoralDet Dataset SOTA](https://img.shields.io/badge/SCoralDet%20Dataset-SOTA-blue)](https://paperswithcode.com/dataset/scoraldet-dataset-1)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 ## 🎥 Detection Video
 
