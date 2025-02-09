@@ -13,6 +13,7 @@
 ---
 
 ## 📅 Recent Updates  
+- **[2025/2/9]**: We have added **5 coral videos** to enrich the dataset and provide additional resources for your research. 🌊 
 - **[2024/12/22]**: Added **detailed instructions** for integrating and using SCoralDet source code within the Ultralytics YOLO framework. 🎉
 - **[2024/12/18]**: We have uploaded the **core improvement source code of SCoralDet**! 😊  
 - **[2024/12/16]**: We are maintaining the **SCoralDet Dataset** on [Papers with Code](https://paperswithcode.com/dataset/scoraldet-dataset-1).  
@@ -44,7 +45,7 @@ The dataset includes images from the following **six coral species**:
 ## 📥 Download
 You can download the dataset from [Google Drive](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link).
 
-We also provide **coral videos** as part of the dataset. You can access and download them via the following [Google Drive](https://drive.google.com/file/d/1gGZgNfaqIUClyeygsUnVDogAIwkJLGx9/view?usp=drive_link). 
+We also provide **5 coral videos** as part of the dataset. You can access and download them via the following [Google Drive](https://drive.google.com/file/d/1gGZgNfaqIUClyeygsUnVDogAIwkJLGx9/view?usp=drive_link). 
 
 ---
 
