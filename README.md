@@ -43,6 +43,7 @@ The dataset includes images from the following **six coral species**:
 
 ## 📥 Download
 You can download the dataset from [Google Drive](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link).
+We also provide **coral videos** as part of the dataset. You can access and download them via the following Google Drive link: [Google Drive - Coral Videos (https://drive.google.com/file/d/1gGZgNfaqIUClyeygsUnVDogAIwkJLGx9/view?usp=drive_link)  
 
 ---
 
