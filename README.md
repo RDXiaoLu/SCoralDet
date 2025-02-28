@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/217239a7-b0a5-4c8a-a7b8-b2c575424ee3)
 # SCoralDet: Efficient real-time underwater soft coral detection with YOLO  &  SCoralDet Dataset
 
 > Efficient methods for underwater coral detection and high-quality underwater coral detection dataset for machine learning and computer vision research.
