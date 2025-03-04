@@ -4,8 +4,7 @@
 > Efficient methods for underwater coral detection and high-quality underwater coral detection dataset for machine learning and computer vision research.
 
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue)](https://drive.google.com/file/d/1QIcbNdZ6HfU8E3VphbP7FmWtgXlxXV1W/view?usp=drive_link)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![SCoralDet Dataset SOTA](https://img.shields.io/badge/SCoralDet%20Dataset-SOTA-blue)](https://paperswithcode.com/dataset/scoraldet-dataset-1)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scoraldet-efficient-real-time-underwater-soft/2d-object-detection-on-scoraldet-dataset-1)](https://paperswithcode.com/sota/2d-object-detection-on-scoraldet-dataset-1?p=scoraldet-efficient-real-time-underwater-soft)
 
 ---
