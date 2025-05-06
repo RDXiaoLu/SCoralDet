@@ -175,7 +175,7 @@ python val.py
 If you find our work useful, please consider citing us or giving us a star ⭐. 
 
 ```markdown 
-@ARTICLE{lu2024scoraldet,  
+@article{lu2024scoraldet,  
          author={Lu, Zhaoxuan and Liao, Lyuchao and Xie, Xingang and Yuan, Hui},  
          title={SCoralDet: Efficient real-time underwater soft coral detection with YOLO},  
          journal={Ecological Informatics},  
@@ -183,7 +183,16 @@ If you find our work useful, please consider citing us or giving us a star ⭐.
          artnum={102937},  
          issn={1574-9541},  
          doi={10.1016/j.ecoinf.2024.102937},  
-}  
+}
+
+@article{lu2024underwater,
+  title={Underwater Soft Coral Detection: SCoralNet for Accurate and Efficient Annotation.},
+  author={Lu, Zhaoxuan and Xie, Xingang and Zhu, Xiaolong},
+  journal={IAENG International Journal of Computer Science},
+  volume={51},
+  number={9},
+  year={2024}
+}
 ```
 
 ---
